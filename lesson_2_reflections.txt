@@ -13,3 +13,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	If I want to different version of the game, branches would be really helpful. It keeps master branch seprately from new branch.
+
+How do the diagrams help you visualize the branch structure?
+
+	It shows all the commit and the reachability.
