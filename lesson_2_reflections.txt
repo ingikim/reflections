@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+dWhat happens when you initialize a repository? Why do you need to do it?
 
 	To track my project code, .git is created.
 
@@ -21,3 +21,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	Two branches is combined to new branch. If we represent it in the digram, we can understand it easily.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Git's automatic merging is useful but suometimes we need to merge manually.
